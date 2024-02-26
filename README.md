@@ -7,6 +7,10 @@
 <!-- Animated img -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
+<div align="center">
+  <img src="https://th.bing.com/th/id/R.e53b7448d653e93d37bbaeda27779868?rik=rSxvrgsWmLxCqQ&riu=http%3a%2f%2forig11.deviantart.net%2f34de%2ff%2f2012%2f204%2fb%2fc%2fgrass_block_by_barakaldo-d58bi3u.gif&ehk=jrR0Knt0R8oZJm06fYzMmMhnn1fnqL8KSEeyTJ9jT7Y%3d&risl=&pid=ImgRaw&r=0"/>
+</div>
+
 <!-- Animated text -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&width=290&lines=MINECRAFT"/>
