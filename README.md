@@ -37,6 +37,8 @@ Neste repositório, utilizamos ferramentas de versionamento Git para registrar e
   <!-- Frameworks -->
   
   <!-- Softwares -->
+
+  <!-- Others -->
   
 </div>
 
