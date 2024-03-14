@@ -8,7 +8,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://ivanilsodasilva.github.io/read-me/assets/minecraft.gif"/>
+  <img src="https://ivanilsodasilva.github.io/read-me/assets/minecraft/minecraft.gif"/>
 </div>
 
 <!-- Animated text -->
